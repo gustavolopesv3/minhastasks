@@ -1,4 +1,5 @@
 # minhastasks
+Desafio de criar uma lista de tarefas dinâmica para adicionar, marcar como concluído e excluir item dinamicamente e realizar testes automatizados
 
 # Enunciado: 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
